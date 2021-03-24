@@ -1,8 +1,8 @@
 ## 環境
-- python2
+- Python2
 
 ```
-sudo pip install xbee AWSIoTPythonSDK
+sudo pip install -r requirements.txt
 ```
 
 
