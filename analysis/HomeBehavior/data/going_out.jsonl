@@ -1,0 +1,73 @@
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-10-30', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 7919, 'count': 2, 'date': '2018-10-31', 'timestamp': [{'start': '10:53:21', 'end': '12:18:41', 'time': 5120}, {'start': '14:50:57', 'end': '15:37:36', 'time': 2799}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 4541, 'count': 1, 'date': '2018-11-01', 'timestamp': [{'start': '09:13:14', 'end': '10:28:55', 'time': 4541}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 1906, 'count': 1, 'date': '2018-11-02', 'timestamp': [{'start': '10:14:20', 'end': '10:46:06', 'time': 1906}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 3081, 'count': 1, 'date': '2018-11-03', 'timestamp': [{'start': '13:55:09', 'end': '14:46:30', 'time': 3081}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 13028, 'count': 1, 'date': '2018-11-04', 'timestamp': [{'start': '11:06:28', 'end': '14:43:36', 'time': 13028}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 25717, 'count': 3, 'date': '2018-11-05', 'timestamp': [{'start': '07:51:16', 'end': '10:41:21', 'time': 10205}, {'start': '10:51:33', 'end': '11:17:22', 'time': 1549}, {'start': '12:40:49', 'end': '16:33:32', 'time': 13963}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 20137, 'count': 2, 'date': '2018-11-06', 'timestamp': [{'start': '08:36:30', 'end': '10:10:15', 'time': 5625}, {'start': '12:22:42', 'end': '16:24:34', 'time': 14512}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 15083, 'count': 1, 'date': '2018-11-07', 'timestamp': [{'start': '11:12:58', 'end': '15:24:21', 'time': 15083}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-08', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 16965, 'count': 1, 'date': '2018-11-09', 'timestamp': [{'start': '11:53:01', 'end': '16:35:46', 'time': 16965}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 16934, 'count': 3, 'date': '2018-11-10', 'timestamp': [{'start': '09:28:54', 'end': '10:26:19', 'time': 3445}, {'start': '11:02:46', 'end': '11:14:45', 'time': 719}, {'start': '11:40:18', 'end': '15:13:08', 'time': 12770}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 13068, 'count': 1, 'date': '2018-11-11', 'timestamp': [{'start': '10:43:49', 'end': '14:21:37', 'time': 13068}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 19500, 'count': 2, 'date': '2018-11-12', 'timestamp': [{'start': '08:34:53', 'end': '10:07:13', 'time': 5540}, {'start': '12:29:30', 'end': '16:22:10', 'time': 13960}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 12558, 'count': 1, 'date': '2018-11-13', 'timestamp': [{'start': '12:52:27', 'end': '16:21:45', 'time': 12558}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-14', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-15', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-16', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-17', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 9546, 'count': 2, 'date': '2018-11-18', 'timestamp': [{'start': '08:50:24', 'end': '10:06:41', 'time': 4577}, {'start': '10:19:29', 'end': '11:42:18', 'time': 4969}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 13659, 'count': 1, 'date': '2018-11-19', 'timestamp': [{'start': '12:33:37', 'end': '16:21:16', 'time': 13659}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 20637, 'count': 2, 'date': '2018-11-20', 'timestamp': [{'start': '08:35:34', 'end': '10:05:37', 'time': 5403}, {'start': '12:20:54', 'end': '16:34:48', 'time': 15234}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 15372, 'count': 1, 'date': '2018-11-21', 'timestamp': [{'start': '11:08:04', 'end': '15:24:16', 'time': 15372}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 8895, 'count': 1, 'date': '2018-11-22', 'timestamp': [{'start': '12:44:09', 'end': '15:12:24', 'time': 8895}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-23', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 5533, 'count': 1, 'date': '2018-11-24', 'timestamp': [{'start': '11:20:09', 'end': '12:52:22', 'time': 5533}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-25', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 13251, 'count': 1, 'date': '2018-11-26', 'timestamp': [{'start': '12:41:56', 'end': '16:22:47', 'time': 13251}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 10855, 'count': 1, 'date': '2018-11-27', 'timestamp': [{'start': '12:19:35', 'end': '15:20:30', 'time': 10855}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-28', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 17552, 'count': 1, 'date': '2018-11-29', 'timestamp': [{'start': '10:04:47', 'end': '14:57:19', 'time': 17552}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-11-30', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-01', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-02', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 21642, 'count': 3, 'date': '2018-12-03', 'timestamp': [{'start': '08:39:33', 'end': '10:30:35', 'time': 6662}, {'start': '10:30:56', 'end': '10:47:14', 'time': 978}, {'start': '12:29:16', 'end': '16:22:38', 'time': 14002}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-04', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 13372, 'count': 1, 'date': '2018-12-05', 'timestamp': [{'start': '11:19:15', 'end': '15:02:07', 'time': 13372}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 9203, 'count': 1, 'date': '2018-12-06', 'timestamp': [{'start': '12:46:03', 'end': '15:19:26', 'time': 9203}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 18650, 'count': 2, 'date': '2018-12-07', 'timestamp': [{'start': '10:35:50', 'end': '11:53:12', 'time': 4642}, {'start': '12:34:00', 'end': '16:27:28', 'time': 14008}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-08', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 13284, 'count': 1, 'date': '2018-12-09', 'timestamp': [{'start': '10:46:16', 'end': '14:27:40', 'time': 13284}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 22037, 'count': 3, 'date': '2018-12-10', 'timestamp': [{'start': '07:54:15', 'end': '10:08:10', 'time': 8035}, {'start': '10:29:34', 'end': '10:53:59', 'time': 1465}, {'start': '12:52:42', 'end': '16:21:39', 'time': 12537}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 16857, 'count': 3, 'date': '2018-12-11', 'timestamp': [{'start': '08:32:43', 'end': '10:05:48', 'time': 5585}, {'start': '10:48:21', 'end': '11:00:24', 'time': 723}, {'start': '12:33:19', 'end': '15:29:08', 'time': 10549}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 16247, 'count': 1, 'date': '2018-12-12', 'timestamp': [{'start': '11:15:22', 'end': '15:46:09', 'time': 16247}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 10975, 'count': 1, 'date': '2018-12-13', 'timestamp': [{'start': '12:22:17', 'end': '15:25:12', 'time': 10975}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-14', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-15', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-16', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 6636, 'count': 1, 'date': '2018-12-17', 'timestamp': [{'start': '08:33:00', 'end': '10:23:36', 'time': 6636}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 19538, 'count': 1, 'date': '2018-12-18', 'timestamp': [{'start': '10:01:39', 'end': '15:27:17', 'time': 19538}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-19', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 4147, 'count': 1, 'date': '2018-12-20', 'timestamp': [{'start': '08:35:39', 'end': '09:44:46', 'time': 4147}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-21', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 15255, 'count': 1, 'date': '2018-12-22', 'timestamp': [{'start': '11:37:42', 'end': '15:51:57', 'time': 15255}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 8258, 'count': 1, 'date': '2018-12-23', 'timestamp': [{'start': '11:34:58', 'end': '13:52:36', 'time': 8258}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 1191, 'count': 1, 'date': '2018-12-24', 'timestamp': [{'start': '08:32:51', 'end': '08:52:42', 'time': 1191}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 6059, 'count': 1, 'date': '2018-12-25', 'timestamp': [{'start': '08:33:22', 'end': '10:14:21', 'time': 6059}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-26', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-27', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 15267, 'count': 1, 'date': '2018-12-28', 'timestamp': [{'start': '12:21:05', 'end': '16:35:32', 'time': 15267}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2018-12-29', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 10445, 'count': 1, 'date': '2018-12-30', 'timestamp': [{'start': '15:14:23', 'end': '18:08:28', 'time': 10445}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 4321, 'count': 1, 'date': '2018-12-31', 'timestamp': [{'start': '09:53:18', 'end': '11:05:19', 'time': 4321}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2019-01-01', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 12430, 'count': 1, 'date': '2019-01-02', 'timestamp': [{'start': '15:29:48', 'end': '18:56:58', 'time': 12430}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2019-01-03', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 14768, 'count': 1, 'date': '2019-01-04', 'timestamp': [{'start': '10:08:14', 'end': '14:14:22', 'time': 14768}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2019-01-05', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 15297, 'count': 2, 'date': '2019-01-06', 'timestamp': [{'start': '09:49:02', 'end': '10:54:29', 'time': 3927}, {'start': '11:22:09', 'end': '14:31:39', 'time': 11370}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 30784, 'count': 2, 'date': '2019-01-07', 'timestamp': [{'start': '07:50:19', 'end': '10:28:05', 'time': 9466}, {'start': '10:33:54', 'end': '16:29:12', 'time': 21318}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 14883, 'count': 3, 'date': '2019-01-08', 'timestamp': [{'start': '08:27:50', 'end': '09:35:22', 'time': 4052}, {'start': '09:36:11', 'end': '10:16:03', 'time': 2392}, {'start': '12:27:01', 'end': '14:47:40', 'time': 8439}]}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2019-01-09', 'timestamp': []}
+{'uid': 1000, 'activity': 'going_out', 'time': 0, 'count': 0, 'date': '2019-01-10', 'timestamp': []}
